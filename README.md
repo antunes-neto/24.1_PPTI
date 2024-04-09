@@ -12,7 +12,7 @@ Antunes Vila Nova Neto
 Demétrios de Castro do Amaral
 
 
-Descrição de Farofa
+Descrição de FAROFA's TECH
 Somos uma equipe...
 
 
