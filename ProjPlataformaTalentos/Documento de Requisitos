@@ -155,25 +155,3 @@ Apresente aqui em um quadro a lista de funcionalidades do projeto que será dese
 
 
 
-3.  NOTA A1
-A nota do documento de requisitos será atribuída por Critérios e Qualificação dos Critérios.
-
-3.1 Critérios de Nota
-
-A nota da N1 possuirá valor máximo de 10 e será dividida em:
-20% | introdução - Existência de todos os pontos do Briefing e o bom uso dos elementos pré-textuais validará 20% da nota;
-40% | Escopo - Requisitos Funcionalidades / Não Funcionais - Existência e Definição relevante de requisitos de funcionalidades do projeto;
-20% | Escopo - Conteudo - Existência e Definição relevante dos conteúdos do projeto;
-20% | Organização - Organização deste documento
-
-
-3.2 Qualificação dos Critérios de Nota
-
-Cada critério da nota será qualificado em 5 categorias, sendo a nota ajustada sempre para cima em caso de nota quebrada. A categorias são:
-0%  | Aprendiz - Não atendeu ao critério;
-30% | Estagiário - Desenvolveu parte dos critérios indicados ou os critérios possuem muitos problemas;
-60% | Profissional Jr. - Desenvolveu mais da metade dos critérios indicados, ou os critérios possuem problemas;
-80% | Profissional Especialista - Desenvolveu quase todos os critérios indicados, ou os critérios possuem alguns problemas;
-100% | Profissional Sr. - Desenvolveu todos os critérios indicados, sem nenhum problema no critério;
-
-
