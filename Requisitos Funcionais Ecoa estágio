@@ -26,13 +26,13 @@ Saídas:
 RF005 Editar Perfil
 
 Descrição: Uma função onde o usuário pode editar o seu perfil.
-Restrições:
+Restrições: usuario deverá está logado no sistema.
 Saídas:
 
 RF006 Desativar Perfil
 
 Descrição: Uma função onde o usuário pode desativar o seu perfil.
-Restrições:
+Restrições: Apenas os usuarios que tiverem conta poderam desativar a conta.
 Saídas:
 
 RF007 Inscrição para estagio
@@ -55,8 +55,8 @@ Saídas:
 
 RF010 Ver perfil do candidato
 
-Descrição: Um sistema onde a empresa pode vizualizar os candidatos concorrentes à sua vaga
-Restrições:
+Descrição: Um sistema onde a empresa pode vizualizar os candidatos concorrentes à sua vaga.
+Restrições: 
 Saídas:
 
 RF011 Ver perfil selecionado
@@ -79,16 +79,16 @@ Saídas:
 
 RF014 Acionar Suporte
 
-Descrição: 
-Restrições:
+Descrição: Entrar em contato com Suporte para solucionar duvidas.
+Restrições: está logado no sistema.
 Saídas:
 
 RF015 FeedBack
-Descrição:
+Descrição: FeedBack do aluno e empresa sobre o periodo de contrato.
 Restrições: Após o fim do contrato.
 Saídas:
 
 RF016 Realizar o login
-Descrição:
+Descrição: 
 Restrições: Realizar apenas quem tiver cadastro.
 Saídas:
