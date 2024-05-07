@@ -1,19 +1,21 @@
 RF001 Registro de Usuário
 
 Descrição: Permitir que os usuários se registrem na plataforma.
-Restrições: Ter declaração da faculdade
+Restrições: Ter declaração da faculdade. Os usuários precisam ter um RA para validar o processo de registro.
 Saídas:
 
 RF002 Registro da Empresa
 
-Descrição: Permitir que as empresas coloquem os dados da vaga
+Descrição: Permitir que as empresas coloquem os dados da vaga e mais estágios, descrições sobre as vagas de estágios. As empresas devem 
+fornecer informações precisas e atualizadas sobre as vagas de estágio, incluindo descrições 
+detalhadas das responsabilidades, qualificações necessárias e benefícios oferecidos aos estágiarios.
 Restrições: cnpj ativo
 Saídas:
 
 RF003 Pesquisa de Estágio
 
 Descrição: Implementar um mecanismo de busca que permita aos
-usuários procurarem por estágios.
+usuários procurarem por estágios. Titulo do estagio e localização
 Restrições: Aparecer as buscas apenas para quem está logado
 Saídas:
 
@@ -44,13 +46,15 @@ Saídas:
 RF008 Cadastro de vagas
 
 Descrição: Um sistema onde a empresa pode divulgar a sua vaga
-Restrições: Deve Exibir informações sobre a vaga, como Local, periodo, e Salário
+Restrições: Deve Exibir informações sobre a vaga, como Local, periodo, e salário. As empresas devem garantir que todas as vagas 
+divulgadas atendam aos requisitos legais e regularmentares, incluindo conformidade com leis trabalhistas e políticas.
 Saídas:
 
 RF009 Acompanhar as Inscrições
 
 Descrição: O usuario poderá ver como está a sua vaga na inscrição aplicada.
-Restrições: Ele deverá ter aplicado inscrição para alguma vaga.
+Restrições: Ele deverá ter aplicado inscrição para alguma vaga. A visualização do status da vaga na inscrição aplicada está disponível 
+apenas para usuários que tenham completado o processo de inscrição.
 Saídas:
 
 RF010 Ver perfil do candidato
