@@ -44,7 +44,7 @@ Saídas:
 RF008 Cadastro de vagas
 
 Descrição: Um sistema onde a empresa pode divulgar a sua vaga
-Restrições:
+Restrições: Deve Exibir informações sobre a vaga, como Local, periodo, e Salário
 Saídas:
 
 RF009 Acompanhar as Inscrições
