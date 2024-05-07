@@ -56,7 +56,7 @@ Saídas:
 RF010 Ver perfil do candidato
 
 Descrição: Um sistema onde a empresa pode vizualizar os candidatos concorrentes à sua vaga.
-Restrições: 
+Restrições:  A empresa não terá autorização a dados pessoais
 Saídas:
 
 RF011 Ver perfil selecionado
