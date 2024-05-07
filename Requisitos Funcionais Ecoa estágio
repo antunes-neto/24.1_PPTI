@@ -61,8 +61,8 @@ Saídas:
 
 RF011 Ver perfil selecionado
 
-Descrição:
-Restrições:
+Descrição: Aba onde a empresa poderá ver o perfil do candidato que ela pretende selecionar.
+Restrições: Apenas a empresa terá acesso a essa parte.
 Saídas:
 
 RF012 Contato com o candidato selecionado
@@ -73,13 +73,13 @@ Saídas:
 
 RF013 Comunicar o contrato
 
-Descrição:
+Descrição: Empresa deverá comunicar o contrato ao Sistema e o Candidato.
 Restrições: A empresa deve comunicar o inicio e o fim do contrato.
 Saídas:
 
 RF014 Acionar Suporte
 
-Descrição:
+Descrição: 
 Restrições:
 Saídas:
 
