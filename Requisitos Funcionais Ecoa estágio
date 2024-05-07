@@ -49,8 +49,8 @@ Saídas:
 
 RF009 Acompanhar as Inscrições
 
-Descrição:
-Restrições:
+Descrição: O usuario poderá ver como está a sua vaga na inscrição aplicada.
+Restrições: Ele deverá ter aplicado inscrição para alguma vaga.
 Saídas:
 
 RF010 Ver perfil do candidato
