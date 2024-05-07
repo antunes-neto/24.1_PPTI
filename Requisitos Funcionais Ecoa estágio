@@ -89,6 +89,6 @@ Restrições: Após o fim do contrato.
 Saídas:
 
 RF016 Realizar o login
-Descrição: O usuario entra em sua conta protegido por meio de senha para acessar o sistema/serviço
+Descrição: O usuario entra em sua conta protegido por meio de senha para acessar o sistema/serviço.
 Restrições: Realizar apenas quem tiver cadastro.
 Saídas:
